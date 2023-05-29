@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Priscila Villaverde 👋
 
 - 🌱 Estou estudando Analises e Desenvolvimento de Sistema
-- 📫 How to reach me: ...
+- 📫 priscilavillaverde@hotmail.com
 
 ![Priscila Villaverde GitHub stats](https://github-readme-stats.vercel.app/api?username=PriscilaVillaverde&show_icons=true&theme=dracula)
 
